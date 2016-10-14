@@ -1,0 +1,17 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Tue Sep 20 17:57:21 2016
+\t (00:00:00)         Host=PRAKASH User=SIVA Pid=3316 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: F:/JOBS/Surya/symboles/berg1x2.dra
+\i (00:00:03) trapsize 1255
+\i (00:00:03) trapsize 1174
+\i (00:00:03) trapsize 1264
+\i (00:00:03) trapsize 1176
+\i (00:00:03) trapsize 953
+\i (00:00:03) trapsize 1176
+\i (00:00:05) save_as 
+\i (00:00:08) fillin "berg1x2.dra"
+\t (00:00:09) Symbol 'berg1x2.psm' created.
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Tue Sep 20 17:57:30 2016

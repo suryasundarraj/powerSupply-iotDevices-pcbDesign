@@ -1,0 +1,41 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Tue Sep 20 17:56:44 2016
+\t (00:00:00)         Host=PRAKASH User=SIVA Pid=4768 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:03) Database opened: F:/JOBS/Surya/symboles/berg1x2.dra
+\i (00:00:03) trapsize 1255
+\i (00:00:03) trapsize 1174
+\i (00:00:03) trapsize 1264
+\i (00:00:03) trapsize 1176
+\i (00:00:03) trapsize 953
+\i (00:00:03) trapsize 1176
+\i (00:00:08) padeditdb 
+\i (00:00:10) pick grid 0.4967 0.2850
+\t (00:00:10) last pick:  0.0000  0.0000
+\i (00:00:10) prepopup 0.4497 0.2850
+\i (00:00:11) padeditcur 
+\i (00:00:14) setwindow form.padedit
+\i (00:00:14) pse_save_as 
+\i (00:00:16) setwindow text
+\i (00:00:16) close 
+\i (00:00:17) fillin yes 
+\i (00:00:20) fillin "sq060d036.pad"
+\i (00:00:22) setwindow form.padedit
+\i (00:00:22) pse_exit
+\i (00:00:23) setwindow pcb
+\i (00:00:23) pick grid 3.2490 0.2850
+\t (00:00:23) last pick:  2.5400  0.0000
+\i (00:00:23) prepopup 3.2490 0.2850
+\i (00:00:24) padeditcur 
+\i (00:00:27) setwindow form.padedit
+\i (00:00:27) pse_save_as 
+\i (00:00:28) setwindow text
+\i (00:00:28) close 
+\i (00:00:30) fillin yes 
+\i (00:00:31) fillin "rd060d036.pad"
+\i (00:00:32) setwindow form.padedit
+\i (00:00:32) pse_exit
+\i (00:00:33) setwindow pcb
+\i (00:00:33) exit 
+\t (00:00:34)     Journal end - Tue Sep 20 17:57:17 2016
